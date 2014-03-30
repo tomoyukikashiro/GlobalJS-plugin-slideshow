@@ -1,0 +1,11 @@
+{
+    "vendor": [
+        "/bower_components/swiper/dist/idangerous.swiper.js",
+        "/bower_components/GlobalJS/dist/global-concat.js"
+    ],
+    "app":[
+    ],
+    "test":[
+        "test/spec/**/*.js"
+    ]
+}

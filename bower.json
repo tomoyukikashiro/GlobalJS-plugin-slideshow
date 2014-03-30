@@ -1,0 +1,10 @@
+{
+  "name": "GlobalJS-plugin-slideshow",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "GlobalJS": "kashiro/GlobalJS",
+    "swiper": "~2.5.0",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {}
+}

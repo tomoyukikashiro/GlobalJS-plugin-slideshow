@@ -1,0 +1,14 @@
+{
+    "port": {
+        "server"    : 9000,
+        "livereload": 35729,
+        "karam"     : 8080,
+        "proxy"     : 3000
+    },
+    "hostname": "localhost",
+    "domain": {
+        "prod" : "",
+        "stg"  : "",
+        "local": ""
+    }
+}

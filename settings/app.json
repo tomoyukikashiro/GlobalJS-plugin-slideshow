@@ -1,0 +1,6 @@
+{
+    "dir": {
+        "app" : "app",
+        "dist": "dist"
+    }
+}
