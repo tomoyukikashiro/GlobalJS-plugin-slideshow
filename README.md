@@ -1,0 +1,2 @@
+GlobalJS-plugin-slideshow
+=========================
