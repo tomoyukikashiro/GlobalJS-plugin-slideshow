@@ -28,6 +28,7 @@ module.exports = {
                 '.htaccess',
                 'images/**/*.webp',
                 'styles/fonts/{,*/}*.*',
+                'index.html'
             ]
         }]
     },

@@ -4,5 +4,5 @@ module.exports = {
     options: {
         dest: appSettings.dir.dist
     },
-    html: appSettings.dir.dist + '/index.html'
+    html: appSettings.dir.app + '/index.html'
 };
