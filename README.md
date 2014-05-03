@@ -1,14 +1,5 @@
-# generator-webapp
+# GlobalJS-plugin-slideshow
 
-## Outline
+This is slideshow plugin for GlobalJS. 
 
-This generator is made based on [generator-webapp](https://github.com/yeoman/generator-webapp)
-
-## Build
-
-### command
-
-for local
-
-  grunt serve
-
+[demo](http://kashiro.github.io/GlobalJS-plugin-slideshow/)
